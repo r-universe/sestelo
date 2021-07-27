@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FWDselect"]
+	path = FWDselect
+	url = https://github.com/sestelo/fwdselect
+	shallow = true
+	registered = true
+[submodule "npregfast"]
+	path = npregfast
+	url = https://github.com/sestelo/npregfast
+	shallow = true
+	registered = true

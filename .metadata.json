@@ -1,0 +1,10 @@
+[
+  {
+    "package": "FWDselect",
+    "oncran": true
+  },
+  {
+    "package": "npregfast",
+    "oncran": true
+  }
+]
