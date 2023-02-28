@@ -1,10 +1,19 @@
 [
   {
-    "package": "FWDselect",
-    "oncran": true
+    "package": "condsurv"
   },
   {
     "package": "npregfast",
     "oncran": true
+  },
+  {
+    "package": "survidm",
+    "oncran": false
+  },
+  {
+    "package": "clustcurv"
+  },
+  {
+    "package": "fwdselect"
   }
 ]
