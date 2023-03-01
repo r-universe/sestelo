@@ -3,8 +3,8 @@
 	url = https://github.com/sestelo/universe
 	shallow = true
 	branch = HEAD
-[submodule "condsurv"]
-	path = condsurv
+[submodule "condSURV"]
+	path = condSURV
 	url = https://github.com/sestelo/condsurv
 	shallow = true
 	registered = true
@@ -23,8 +23,8 @@
 	url = https://github.com/noramvillanueva/clustcurv
 	shallow = true
 	registered = true
-[submodule "fwdselect"]
-	path = fwdselect
+[submodule "FWDselect"]
+	path = FWDselect
 	url = https://github.com/sestelo/fwdselect
 	shallow = true
 	registered = true
