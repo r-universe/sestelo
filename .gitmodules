@@ -18,9 +18,9 @@
 	url = https://github.com/sestelo/survidm
 	shallow = true
 	registered = true
-[submodule "clustcurv"]
-	path = clustcurv
-	url = https://github.com/noramvillanueva/clustcurv
+[submodule "shiny_npregfast"]
+	path = shiny_npregfast
+	url = https://github.com/sestelo/shiny_npregfast
 	shallow = true
 	registered = true
 [submodule "FWDselect"]

@@ -12,7 +12,7 @@
     "oncran": false
   },
   {
-    "package": "clustcurv"
+    "package": "shiny_npregfast"
   },
   {
     "package": "FWDselect",
