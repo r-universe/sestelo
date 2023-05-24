@@ -5,5 +5,6 @@
   "permissions": {
     "metadata": "read",
     "statuses": "write"
-  }
+  },
+  "repositories": ["clustcurv", "condsurv", "fwdselect", "npregfast", "survidm"]
 }
