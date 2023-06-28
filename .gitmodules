@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/sestelo/universe
-	shallow = true
 	branch = HEAD
 [submodule "condSURV"]
 	path = condSURV
 	url = https://github.com/sestelo/condsurv
-	shallow = true
-	registered = true
 [submodule "npregfast"]
 	path = npregfast
 	url = https://github.com/sestelo/npregfast
-	shallow = true
-	registered = true
 [submodule "survidm"]
 	path = survidm
 	url = https://github.com/sestelo/survidm
-	shallow = true
-	registered = true
 [submodule "shiny_npregfast"]
 	path = shiny_npregfast
 	url = https://github.com/sestelo/shiny_npregfast
-	shallow = true
-	registered = true
 [submodule "FWDselect"]
 	path = FWDselect
 	url = https://github.com/sestelo/fwdselect
-	shallow = true
-	registered = true
