@@ -2,18 +2,18 @@
 	path = .registry
 	url = https://github.com/sestelo/universe
 	branch = HEAD
+[submodule "FWDselect"]
+	path = FWDselect
+	url = https://github.com/sestelo/fwdselect
 [submodule "condSURV"]
 	path = condSURV
 	url = https://github.com/sestelo/condsurv
 [submodule "npregfast"]
 	path = npregfast
 	url = https://github.com/sestelo/npregfast
-[submodule "survidm"]
-	path = survidm
-	url = https://github.com/sestelo/survidm
 [submodule "shiny_npregfast"]
 	path = shiny_npregfast
 	url = https://github.com/sestelo/shiny_npregfast
-[submodule "FWDselect"]
-	path = FWDselect
-	url = https://github.com/sestelo/fwdselect
+[submodule "survidm"]
+	path = survidm
+	url = https://github.com/sestelo/survidm
