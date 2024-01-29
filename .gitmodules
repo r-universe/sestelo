@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/sestelo/universe
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
 [submodule "FWDselect"]
 	path = FWDselect
@@ -11,9 +11,6 @@
 [submodule "npregfast"]
 	path = npregfast
 	url = https://github.com/sestelo/npregfast
-[submodule "shiny_npregfast"]
-	path = shiny_npregfast
-	url = https://github.com/sestelo/shiny_npregfast
 [submodule "survidm"]
 	path = survidm
 	url = https://github.com/sestelo/survidm
